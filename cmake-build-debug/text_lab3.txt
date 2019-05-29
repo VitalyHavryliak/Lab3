@@ -1,0 +1,21 @@
+The beginning of the closed section (thread 0)
+The end of the closed section (thread 0)
+The beginning of the closed section (thread 1)
+The end of the closed section (thread 1)
+The beginning of the closed section (thread 7)
+The end of the closed section (thread 7)
+The beginning of the closed section (thread 6)
+The end of the closed section (thread 6)
+The beginning of the closed section (thread 5)
+The end of the closed section (thread 5)
+The beginning of the closed section (thread 4)
+The end of the closed section (thread 4)
+The beginning of the closed section (thread 2)
+The end of the closed section (thread 2)
+The beginning of the closed section (thread 3)
+The end of the closed section (thread 3)
+
+Lab. robota #3
+KN-318
+Gavryliak V.T.
+Variant 5
